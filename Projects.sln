@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-CountWordsInString(StringProject)", "StringProject\1-CountWordsInString(StringProject).csproj", "{E22EDB7C-F615-4329-A681-81E47D7D80AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1-CountWordsInString(StringProject)", "StringProject\1-1-CountWordsInString(StringProject).csproj", "{E22EDB7C-F615-4329-A681-81E47D7D80AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-HowManyTimeWordUseInString", "HowManyTimeWordUseInString\2-HowManyTimeWordUseInString.csproj", "{FA9E483A-0AF7-428D-A2A4-D5F2E6377050}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-2-HowManyTimeWordUseInString", "HowManyTimeWordUseInString\1-2-HowManyTimeWordUseInString.csproj", "{FA9E483A-0AF7-428D-A2A4-D5F2E6377050}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-RemoveExtraSpacesInString", "RemoveExtraSpacesInString\3-RemoveExtraSpacesInString.csproj", "{69B75095-FFEF-47A5-802E-6F720754DC6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-3-RemoveExtraSpacesInString", "RemoveExtraSpacesInString\1-3-RemoveExtraSpacesInString.csproj", "{69B75095-FFEF-47A5-802E-6F720754DC6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-FindAndReplaceWordInString", "FindAndReplaceWordInString\4-FindAndReplaceWordInString.csproj", "{D454F4A0-0150-4AC0-83C1-45C290478BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-4-FindAndReplaceWordInString", "FindAndReplaceWordInString\1-4-FindAndReplaceWordInString.csproj", "{D454F4A0-0150-4AC0-83C1-45C290478BC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
