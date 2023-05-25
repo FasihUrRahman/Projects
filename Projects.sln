@@ -11,6 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-3-RemoveExtraSpacesInStri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-4-FindAndReplaceWordInString", "FindAndReplaceWordInString\1-4-FindAndReplaceWordInString.csproj", "{D454F4A0-0150-4AC0-83C1-45C290478BC5}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-1-GetDOBFromUserInYearMonthAgeAndOutPutAgeAndPartOfLife", "GetDOBFromUserInYearMonthAgeAndOutPutAgeAndPartOfLife\2-1-GetDOBFromUserInYearMonthAgeAndOutPutAgeAndPartOfLife.csproj", "{0FC48057-6DBE-466C-A6A6-555050FD0EC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-2-InputFromUserDateAndDayAndTellTheNextDay", "InputFromUserDateAndDayAndTellTheNextDay\2-2-InputFromUserDateAndDayAndTellTheNextDay.csproj", "{3FB858FA-7448-4D4D-B09E-BF9CE20FE50F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3-FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs", "FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs\2-3-FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs.csproj", "{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4-PrintDateBetweenToDates", "PrintDateBetweenToDates\2-4-PrintDateBetweenToDates.csproj", "{D5D30A52-471F-4693-9635-27A493E8B414}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{D454F4A0-0150-4AC0-83C1-45C290478BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D454F4A0-0150-4AC0-83C1-45C290478BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D454F4A0-0150-4AC0-83C1-45C290478BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC48057-6DBE-466C-A6A6-555050FD0EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC48057-6DBE-466C-A6A6-555050FD0EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC48057-6DBE-466C-A6A6-555050FD0EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC48057-6DBE-466C-A6A6-555050FD0EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB858FA-7448-4D4D-B09E-BF9CE20FE50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB858FA-7448-4D4D-B09E-BF9CE20FE50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB858FA-7448-4D4D-B09E-BF9CE20FE50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB858FA-7448-4D4D-B09E-BF9CE20FE50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D30A52-471F-4693-9635-27A493E8B414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D30A52-471F-4693-9635-27A493E8B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D30A52-471F-4693-9635-27A493E8B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D30A52-471F-4693-9635-27A493E8B414}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
