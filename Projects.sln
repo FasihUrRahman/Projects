@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-2-InputFromUserDateAndDay
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3-FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs", "FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs\2-3-FindTheDayAfter15DaysAndWhatTheDayOfTheYearThatDayIs.csproj", "{4A698DD6-ECF3-476A-A6FE-5FE0ACFF0247}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-4-PrintDateBetweenToDates", "PrintDateBetweenToDates\2-4-PrintDateBetweenToDates.csproj", "{D5D30A52-471F-4693-9635-27A493E8B414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-4-PrintDateBetweenToDates", "PrintDateBetweenToDates\2-4-PrintDateBetweenToDates.csproj", "{D5D30A52-471F-4693-9635-27A493E8B414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-FindWhatDayIsToDay", "FindWhatDayIsToDay\3-1-FindWhatDayIsToDay.csproj", "{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-2-CallSeasonNameFromEnumAccordingToDate", "CallSeasonNameFromEnumAccordingToDate\3-2-CallSeasonNameFromEnumAccordingToDate.csproj", "{A377B148-C5CA-4351-921B-3E513F009AF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{D5D30A52-471F-4693-9635-27A493E8B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5D30A52-471F-4693-9635-27A493E8B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5D30A52-471F-4693-9635-27A493E8B414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A377B148-C5CA-4351-921B-3E513F009AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A377B148-C5CA-4351-921B-3E513F009AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A377B148-C5CA-4351-921B-3E513F009AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A377B148-C5CA-4351-921B-3E513F009AF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
