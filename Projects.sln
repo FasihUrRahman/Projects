@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3-FindTheDayAfter15DaysAn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-4-PrintDateBetweenToDates", "PrintDateBetweenToDates\2-4-PrintDateBetweenToDates.csproj", "{D5D30A52-471F-4693-9635-27A493E8B414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-1-FindWhatDayIsToDay", "FindWhatDayIsToDay\3-1-FindWhatDayIsToDay.csproj", "{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-1-FindWhatDayIsToDay", "FindWhatDayIsToDay\3-1-FindWhatDayIsToDay.csproj", "{CC82EDF4-5FAC-4B33-A7B1-3960A2C97476}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-2-CallSeasonNameFromEnumAccordingToDate", "CallSeasonNameFromEnumAccordingToDate\3-2-CallSeasonNameFromEnumAccordingToDate.csproj", "{A377B148-C5CA-4351-921B-3E513F009AF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-2-CallSeasonNameFromEnumAccordingToDate", "CallSeasonNameFromEnumAccordingToDate\3-2-CallSeasonNameFromEnumAccordingToDate.csproj", "{A377B148-C5CA-4351-921B-3E513F009AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-3-CheckDressSizeIsAvailableOrNot", "CheckDressSizeIsAvailableOrNot\3-3-CheckDressSizeIsAvailableOrNot.csproj", "{6048D4CD-9FD0-434A-8640-7435251AA103}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A377B148-C5CA-4351-921B-3E513F009AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A377B148-C5CA-4351-921B-3E513F009AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A377B148-C5CA-4351-921B-3E513F009AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6048D4CD-9FD0-434A-8640-7435251AA103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6048D4CD-9FD0-434A-8640-7435251AA103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6048D4CD-9FD0-434A-8640-7435251AA103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6048D4CD-9FD0-434A-8640-7435251AA103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
