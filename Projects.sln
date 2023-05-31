@@ -23,9 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-1-FindWhatDayIsToDay", "F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-2-CallSeasonNameFromEnumAccordingToDate", "CallSeasonNameFromEnumAccordingToDate\3-2-CallSeasonNameFromEnumAccordingToDate.csproj", "{A377B148-C5CA-4351-921B-3E513F009AF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-3-CheckDressSizeIsAvailableOrNot", "CheckDressSizeIsAvailableOrNot\3-3-CheckDressSizeIsAvailableOrNot.csproj", "{6048D4CD-9FD0-434A-8640-7435251AA103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-3-CheckDressSizeIsAvailableOrNot", "CheckDressSizeIsAvailableOrNot\3-3-CheckDressSizeIsAvailableOrNot.csproj", "{6048D4CD-9FD0-434A-8640-7435251AA103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-4-CalculatorUsingEnum", "CalculatorUsingEnum\3-4-CalculatorUsingEnum.csproj", "{A0F2FC2A-391F-4F0C-8961-3F5CF5599B4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-4-CalculatorUsingEnum", "CalculatorUsingEnum\3-4-CalculatorUsingEnum.csproj", "{A0F2FC2A-391F-4F0C-8961-3F5CF5599B4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-1-SortArrayUsingOwnFunction", "SortArrayUsingOwnFunction\4-1-SortArrayUsingOwnFunction.csproj", "{9BB08E81-6EC7-4A7A-A422-A987C458C729}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-2-FindValueInArray", "FindValueInArray\4-2-FindValueInArray.csproj", "{A3CFA44C-5D88-495C-8402-24D6870E4221}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-3-CheckDuplicateValuesInArray", "CheckDuplicateValuesInArray\4-3-CheckDuplicateValuesInArray.csproj", "{9ED055B1-2D0F-475B-91A6-5E427DE7E7A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{A0F2FC2A-391F-4F0C-8961-3F5CF5599B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0F2FC2A-391F-4F0C-8961-3F5CF5599B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0F2FC2A-391F-4F0C-8961-3F5CF5599B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB08E81-6EC7-4A7A-A422-A987C458C729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB08E81-6EC7-4A7A-A422-A987C458C729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB08E81-6EC7-4A7A-A422-A987C458C729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB08E81-6EC7-4A7A-A422-A987C458C729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CFA44C-5D88-495C-8402-24D6870E4221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CFA44C-5D88-495C-8402-24D6870E4221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CFA44C-5D88-495C-8402-24D6870E4221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CFA44C-5D88-495C-8402-24D6870E4221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED055B1-2D0F-475B-91A6-5E427DE7E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED055B1-2D0F-475B-91A6-5E427DE7E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED055B1-2D0F-475B-91A6-5E427DE7E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED055B1-2D0F-475B-91A6-5E427DE7E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
