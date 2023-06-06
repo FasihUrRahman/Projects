@@ -3,9 +3,8 @@ using StringPrintToEverySecondChar;
 //Objects
 ShuffalString stringMethods = new ShuffalString();
 //Variables
-string userInput = null;
+string userInput;
 //Code
 Console.Write("Enter String: ");
-userInput = Console.ReadLine();
-stringMethods.InputShuffal(userInput);
+stringMethods.InputShuffal(Console.ReadLine());
 Console.ReadLine();
