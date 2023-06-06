@@ -39,7 +39,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-1-LoginSystem", "LoginSys
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-2-MartMenuWithSignupNLogin", "MartMenuWithSignupNLogin\7-2-MartMenuWithSignupNLogin.csproj", "{5B5A268C-37FC-4772-A433-9EF2F133BAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPrintToEverySecondChar", "StringPrintToEverySecondChar\StringPrintToEverySecondChar.csproj", "{DA2A95C6-46E6-403E-95A6-CEDF96912F08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-3-StringPrintToEverySecondChar", "StringPrintToEverySecondChar\7-3-StringPrintToEverySecondChar.csproj", "{DA2A95C6-46E6-403E-95A6-CEDF96912F08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
