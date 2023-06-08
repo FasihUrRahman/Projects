@@ -43,9 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-3-StringPrintToEverySecon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-1-BankManegmentAdvanceWithOOP", "BankManegmentAdvanceWithOOP\6-1-BankManegmentAdvanceWithOOP.csproj", "{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-2-SeperateEvenOddNumbers", "SeperateEvenOddNumbers\6-2-SeperateEvenOddNumbers.csproj", "{9633A968-7970-497A-B6CD-172A34A9924E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-2-SeperateEvenOddNumbers", "SeperateEvenOddNumbers\6-2-SeperateEvenOddNumbers.csproj", "{9633A968-7970-497A-B6CD-172A34A9924E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckReversedStringIsSameOrNot", "CheckReversedStringIsSameOrNot\CheckReversedStringIsSameOrNot.csproj", "{0288DAD3-6567-418E-A351-C599523809D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-3-CheckReversedStringIsSameOrNot", "CheckReversedStringIsSameOrNot\6-3-CheckReversedStringIsSameOrNot.csproj", "{0288DAD3-6567-418E-A351-C599523809D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
