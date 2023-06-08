@@ -39,7 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-1-LoginSystem", "LoginSys
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-2-MartMenuWithSignupNLogin", "MartMenuWithSignupNLogin\7-2-MartMenuWithSignupNLogin.csproj", "{5B5A268C-37FC-4772-A433-9EF2F133BAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-3-StringPrintToEverySecondChar", "StringPrintToEverySecondChar\7-3-StringPrintToEverySecondChar.csproj", "{DA2A95C6-46E6-403E-95A6-CEDF96912F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-3-StringPrintToEverySecondChar", "StringPrintToEverySecondChar\7-3-StringPrintToEverySecondChar.csproj", "{DA2A95C6-46E6-403E-95A6-CEDF96912F08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-1-BankManegmentAdvanceWithOOP", "BankManegmentAdvanceWithOOP\6-1-BankManegmentAdvanceWithOOP.csproj", "{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-2-SeperateEvenOddNumbers", "SeperateEvenOddNumbers\6-2-SeperateEvenOddNumbers.csproj", "{9633A968-7970-497A-B6CD-172A34A9924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckReversedStringIsSameOrNot", "CheckReversedStringIsSameOrNot\CheckReversedStringIsSameOrNot.csproj", "{0288DAD3-6567-418E-A351-C599523809D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{DA2A95C6-46E6-403E-95A6-CEDF96912F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA2A95C6-46E6-403E-95A6-CEDF96912F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA2A95C6-46E6-403E-95A6-CEDF96912F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B327E2B-0FCD-47BF-A288-E12F1E4ADD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9633A968-7970-497A-B6CD-172A34A9924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633A968-7970-497A-B6CD-172A34A9924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9633A968-7970-497A-B6CD-172A34A9924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9633A968-7970-497A-B6CD-172A34A9924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0288DAD3-6567-418E-A351-C599523809D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0288DAD3-6567-418E-A351-C599523809D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0288DAD3-6567-418E-A351-C599523809D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0288DAD3-6567-418E-A351-C599523809D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
