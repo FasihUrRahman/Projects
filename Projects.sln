@@ -51,7 +51,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-1-AssignValueFromConstruc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-2-CalculatorUsingMethods", "CalculatorUsingMethods\8-2-CalculatorUsingMethods.csproj", "{A78599CE-5166-42DD-85DF-9184BAF33920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-3-EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\8-3-EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
