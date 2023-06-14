@@ -2,8 +2,8 @@
 {
     internal class Calculator
     {
-        private double value1;
-        private double value2;
+        double value1;
+        double value2;
         public void SetValue(double value1, double value2)
         {
             this.value1 = value1;
