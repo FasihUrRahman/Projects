@@ -53,7 +53,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-2-CalculatorUsingMethods"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-3-EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\8-3-EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithClass", "CalculatorWithClass\CalculatorWithClass.csproj", "{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-1-CalculatorWithClass", "CalculatorWithClass\9-1-CalculatorWithClass.csproj", "{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
