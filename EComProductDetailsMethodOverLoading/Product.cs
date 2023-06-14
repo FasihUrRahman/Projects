@@ -6,7 +6,7 @@
         private string productDescription;
         private string productCategory;
         private double productPrice;
-        public void SetValue(string productName,string productDescription, string productCategory, double productPrice)
+        public void SetValue(string productName, string productDescription, string productCategory, double productPrice)
         {
             this.productName = productName;
             this.productDescription = productDescription;
