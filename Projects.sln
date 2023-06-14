@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-1-AssignValueFromConstruc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-2-CalculatorUsingMethods", "CalculatorUsingMethods\8-2-CalculatorUsingMethods.csproj", "{A78599CE-5166-42DD-85DF-9184BAF33920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-3-EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\8-3-EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-3-EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\8-3-EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithClass", "CalculatorWithClass\CalculatorWithClass.csproj", "{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{5E069ECC-DF43-499D-A7C7-95365B556273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E069ECC-DF43-499D-A7C7-95365B556273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E069ECC-DF43-499D-A7C7-95365B556273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
