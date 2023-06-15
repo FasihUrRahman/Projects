@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-2-CalculatorUsingMethods"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-3-EComProductDetailsMethodOverLoading", "EComProductDetailsMethodOverLoading\8-3-EComProductDetailsMethodOverLoading.csproj", "{5E069ECC-DF43-499D-A7C7-95365B556273}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-1-CalculatorWithClass", "CalculatorWithClass\9-1-CalculatorWithClass.csproj", "{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-1-CalculatorWithClass", "CalculatorWithClass\9-1-CalculatorWithClass.csproj", "{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-2-StudentInfoGetherWithMarks", "StudentInfoGetherWithMarks\9-2-StudentInfoGetherWithMarks.csproj", "{74D4693E-DB49-496B-8FCB-E6DD61A98011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA1681C8-518E-4D98-8C2F-B82FCDEBFE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D4693E-DB49-496B-8FCB-E6DD61A98011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D4693E-DB49-496B-8FCB-E6DD61A98011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D4693E-DB49-496B-8FCB-E6DD61A98011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D4693E-DB49-496B-8FCB-E6DD61A98011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
